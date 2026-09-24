@@ -23,7 +23,7 @@
 - **8+ years** shipping production platforms, REST APIs and backend systems
 - Software used by **700K+ users across 5 countries**
 - Clients include **Papa John's, ExxonMobil, Abbott and Hospital Clínica Bíblica**
-- Founder of **[HardCod3](https://github.com/devhardcod3)** — I run my own products end to end, from schema design to deploy
+- Software developer at **[HardCod3](https://github.com/devhardcod3)**, building SaaS platforms end to end, from schema design to deploy
 - Based in 🇨🇷 Costa Rica, working remotely with teams worldwide
 
 ### 🧰 How I can help
